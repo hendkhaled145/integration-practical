@@ -1,0 +1,7 @@
+1,Ahmed,Hassan    ,Cairo,20,10,
+2,Amr,Magdy     ,Cairo,21,10,1
+3,Mona,Saleh     ,Cairo,22,10,1
+12,Noha,Omar      ,Cairo,21,40,
+13,Said,,,,40,12
+350,Samira,,,,,
+1000,Ibrahim,,,,,

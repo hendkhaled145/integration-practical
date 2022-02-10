@@ -1,0 +1,11 @@
+ABW,Dutch,1,5.3
+ABW,English,0,9.5
+ABW,Papiamento,0,76.7
+ABW,Spanish,0,7.4
+AFG,Balochi,0,0.9
+AFG,Dari,1,32.1
+AFG,Pashto,1,52.4
+AFG,Turkmenian,0,1.9
+AFG,Uzbek,0,8.8
+AGO,Ambo,0,2.4
+
